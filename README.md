@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá👋
+Sou wagner Rizzo de Lima, estou no quarto semestre do curso Jogos Digitais da Fatec de Americana, atualmente sou estagiario em desenvolvimento web, e aqui trago alguns projetos detinados a atividades do curso
 
 <!--
 **WagnerRizzodeLima/WagnerRizzodeLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
